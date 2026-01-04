@@ -19,9 +19,6 @@ https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/771246
 ## :muscle: Pandas_Exercises_From_Udemy_Course :muscle:
 https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/92a618ca-9fd8-404e-8de9-fecf9962c2bb
 
-## :sparkling_heart: Playing_With_Scipy_Library :sparkling_heart:
-https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/454d1b23-94c4-4412-9c08-367e8a2b37de
-
 ## :airplane: Playing_With_Matplotlib_Library :airplane:
 https://github.com/YasinRezvani/Python_Learning_Practice_Notebooks/assets/77124662/095c7f36-3ad1-4bce-9114-b1a5ff51ebc6
 
